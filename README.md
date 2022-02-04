@@ -46,7 +46,7 @@ Synthetic Hormones | Synthetic hormones are made from man-made chemical compound
 ## Risks associated with HRT
 
 - Loss of libido
-- Erectily disfunction
+- Erectile disfunction
 - Sterilization with continued use
 - Increased risk of blood clots (Although still small)
 - Possible unwanted breast growthesto
