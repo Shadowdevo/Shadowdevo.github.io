@@ -1,5 +1,7 @@
 # DIY Transfem/Femboy HRT Resources
 
+[LEGAL NOTICE](https://github.com/Shadowdevo/Shadowdevo.github.io/blob/main/LEGAL.md)
+
 MESSAGE FROM THE CREATOR:
 
 This is not meant to be a complete guide, but instead a list of links and helpful resources.
