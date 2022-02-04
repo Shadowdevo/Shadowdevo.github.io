@@ -36,6 +36,10 @@ Buccal | Placing a drug between your gums and cheek, where it dissolves and is a
 Transdermal | A route of administration wherein active ingredients are delivered across the skin for systemic distribution. Examples include transdermal patches used for medicine delivery.
 Monotherapy | Using a single drug. In this case referring to injections, which typically do not need an AA
 Anti-Androgen/AA | Block testosterone
+E2/Estradiol | Estradiol is metabolized into estrone in the liver. Different delivery methods change how much gets converted.
+E1/Estrone | Estrone, also spelled oestrone, is a steroid, a weak estrogen, and a minor female sex hormone. It is one of three major endogenous estrogens, the others being estradiol and estriol.
+Bioidentical Hormones  | Bioidentical hormone therapy, also known as natural hormone therapy, use hormones that are identical on a molecular level with endogenous hormones in hormone replacement therapy. Created with ingredients natural source like plants. Some examples of bioidentical hormones include estradiol, estriol, and progesterone.
+Synthetic Hormones | Synthetic hormones are made from man-made chemical compounds. Premarin is an example of a synthetic hormone.
 
 ## Risks associated with HRT
 
